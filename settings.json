@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 25565,
-    "version": "1.21.1"
+    "ip": "Bhailog-g922.aternos.me",
+    "port": 56885,
+    "version": "1.26.52"
   },
   "position": {
     "enabled": true,
